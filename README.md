@@ -1,17 +1,1 @@
-# modul-css-revisi
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%203%20css%20revisi.JPG)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%203%20css.html)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%204%20css%20revisi.JPG)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%204%20css.html)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%205%20css%20revisi.JPG)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%205%20css.html)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%206%20css%20revisi.JPG)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%206%20css.html)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%207%20css%20revisi.JPG)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%207%20css.html)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%208%20css%20revisi.JPG)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%208%20css.html)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%209%20css%20revisi.JPG)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%209%20css.html)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%2010%20css%20revisi.JPG)
-![Alt Text] (https://github.com/trarask26/modul-css-revisi/blob/master/lat%2010%20css.html)
+
